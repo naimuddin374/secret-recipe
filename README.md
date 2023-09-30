@@ -78,8 +78,9 @@ Start the application server:
   docker-compose down
 ```
 
-7. Running Tests
-   To run the tests, use the following command:
+### Running Tests
+
+To run the tests, use the following command:
 
 ```bash
   yarn test
