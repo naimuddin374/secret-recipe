@@ -26,7 +26,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MOHAMMADmiZAN/recipe_management.git
+   git clone https://github.com/naimuddin374/secret-recipe.git
    cd recipe_management
    ```
 
